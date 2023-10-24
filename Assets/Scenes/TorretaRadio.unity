@@ -241,6 +241,94 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!1001 &484892938
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 881f357c9a99fe0478fd5a5c9fd17e7f,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 11.301755
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 881f357c9a99fe0478fd5a5c9fd17e7f,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 11.301755
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 881f357c9a99fe0478fd5a5c9fd17e7f,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 11.301755
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 881f357c9a99fe0478fd5a5c9fd17e7f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1193.5702
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 881f357c9a99fe0478fd5a5c9fd17e7f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 881f357c9a99fe0478fd5a5c9fd17e7f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -460.20657
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 881f357c9a99fe0478fd5a5c9fd17e7f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 881f357c9a99fe0478fd5a5c9fd17e7f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 881f357c9a99fe0478fd5a5c9fd17e7f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 881f357c9a99fe0478fd5a5c9fd17e7f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 881f357c9a99fe0478fd5a5c9fd17e7f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 881f357c9a99fe0478fd5a5c9fd17e7f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 881f357c9a99fe0478fd5a5c9fd17e7f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 881f357c9a99fe0478fd5a5c9fd17e7f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca416164aa20056429369f51e0e64382, type: 2}
+    - target: {fileID: 919132149155446097, guid: 881f357c9a99fe0478fd5a5c9fd17e7f,
+        type: 3}
+      propertyPath: m_Name
+      value: AnaKaremOrtiz@TorretaRadio
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 881f357c9a99fe0478fd5a5c9fd17e7f, type: 3}
 --- !u!1 &961739749
 GameObject:
   m_ObjectHideFlags: 0
@@ -378,78 +466,10 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &2016454662321469793
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4641221250342473889, guid: d729828c1827bd04399d0d902f641a21,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.83346796
-      objectReference: {fileID: 0}
-    - target: {fileID: 4641221250342473889, guid: d729828c1827bd04399d0d902f641a21,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.000000059532
-      objectReference: {fileID: 0}
-    - target: {fileID: 4641221250342473889, guid: d729828c1827bd04399d0d902f641a21,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0.6800359
-      objectReference: {fileID: 0}
-    - target: {fileID: 4641221250342473889, guid: d729828c1827bd04399d0d902f641a21,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4641221250342473889, guid: d729828c1827bd04399d0d902f641a21,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4641221250342473889, guid: d729828c1827bd04399d0d902f641a21,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4641221250342473889, guid: d729828c1827bd04399d0d902f641a21,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4641221250342473889, guid: d729828c1827bd04399d0d902f641a21,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4641221250342473889, guid: d729828c1827bd04399d0d902f641a21,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4641221250342473889, guid: d729828c1827bd04399d0d902f641a21,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5414239963415317019, guid: d729828c1827bd04399d0d902f641a21,
-        type: 3}
-      propertyPath: m_Name
-      value: AnaKaremOrtiz@RadioTorretaFBX
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d729828c1827bd04399d0d902f641a21, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 961739753}
   - {fileID: 203844589}
-  - {fileID: 2016454662321469793}
+  - {fileID: 484892938}
