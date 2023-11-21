@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5ce89910847e0794fb3cc82719acb284
+guid: 3cf1f40bf2dc4ce47980d55a2be63a6a
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -66,7 +66,7 @@ ModelImporter:
       takeName: rig|Walk.001
       internalID: 800904341924880717
       firstFrame: 0
-      lastFrame: 17
+      lastFrame: 19
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -74,7 +74,7 @@ ModelImporter:
       loop: 0
       hasAdditiveReferencePose: 0
       loopTime: 1
-      loopBlend: 0
+      loopBlend: 1
       loopBlendOrientation: 0
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
@@ -149,7 +149,7 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     globalScale: 1
-    rootMotionBoneName: Cube
+    rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
@@ -157,7 +157,7 @@ ModelImporter:
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 1
+  avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   importBlendShapeDeformPercent: 1
   remapMaterialsIfMaterialImportModeIsNone: 0
